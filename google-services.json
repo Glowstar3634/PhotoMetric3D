@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "923140248813",
+    "firebase_url": "https://photometric3d-7bb14-default-rtdb.firebaseio.com",
+    "project_id": "photometric3d-7bb14",
+    "storage_bucket": "photometric3d-7bb14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923140248813:android:8fdb15cbc19338fc44e8e4",
+        "android_client_info": {
+          "package_name": "com.senn.PhotoMetric3D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfecJ2mDpblYFYmLT1cMNcJSS4TN561qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
